@@ -33,5 +33,21 @@
 
 ## 2) Statistics
 
+### 2.1) Random Variables
 
+### 2.2) Central Limit Theorem
+
+### 2.3) Hypothesis Testing
+
+#### 2.3.1) General Information
+
+#### 2.3.2) Type I and Type II Errors
+
+#### 2.3.3) *p-values* & Confidence Intervals
+
+#### 2.3.4) Test Statistics
+
+### 2.4) MLE & MAP
+
+Maximum Likelihood Estimation (MLE) and Maximum A Posteriori (MAP) estimation. The difference among them is the inclusion of the prior in MAP. Moreover, MLE can be seen as a special case of MAP with a uniform prior. 
 
