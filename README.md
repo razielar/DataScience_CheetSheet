@@ -22,6 +22,13 @@
 
 #### 1.3.2) Continuous Probability Distributions
 
+| Num   | Distribution   | Definition | Usage |
+|---:|:-------------|------------:|---------:|
+|  1 | Uniform distribution     | Constant probability of *X* falling between *a* and *b*      | In sampling and hypothesis testing cases  | 
+|  2 | Exponential distribution | Poisson for continous data                                   | The time until a credit defaul occurs     |
+|  3 | Normal distribution      | Probability according to the bell curve over a range of *Xs* | The Central Limit Theorem                 |
+
+
 ### 1.4) Markov Chains
 
 ## 2) Statistics
