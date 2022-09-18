@@ -17,7 +17,7 @@
 | Num   | Distribution   | Definition | Usage |
 |---:|:-------------|------------:|---------:|
 |  1 | Binomial distribution |  Probability of *k* number of successes in *n* independent trial              |  Coin flips (number of heads in *n* flips)                  | 
-|  2 | Poisson distribution  |  Number of events occurring within a particular fixed interval ($\lambda$    |  Number of visits to a website in a certain period of time    | 
+|  2 | Poisson distribution  |  Number of events occurring within a particular fixed interval \($\lambda$\)    |  Number of visits to a website in a certain period of time    | 
 
 
 #### 1.3.2) Continuous Probability Distributions
