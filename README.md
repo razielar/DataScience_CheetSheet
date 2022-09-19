@@ -1,6 +1,9 @@
 # Data-science Cheet-sheet
 
-## 1) Probability
+1. [Probability](#prob)
+2. [Statistics](#stats)
+
+## 1) <a id='prob'></a> Probability
 
 ### 1.1) Conditional Probability
 
@@ -31,7 +34,7 @@
 
 ### 1.4) Markov Chains
 
-## 2) Statistics
+## 2) <a id='stats'></a> Statistics
 
 ### 2.1) Random Variables
 
