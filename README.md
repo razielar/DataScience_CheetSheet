@@ -86,6 +86,12 @@ Maximum Likelihood Estimation (MLE) and Maximum A Posteriori (MAP) estimation. T
 
 ### 3.2) Model Evaluation and Selection
 
+#### 3.2.1) Bias-Variance Trade-off
+
+
+
+
+
 ### 3.3) Model Training 
 
 #### 3.3.1) Hyperparameter Tuning
