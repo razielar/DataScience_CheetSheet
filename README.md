@@ -88,6 +88,9 @@ Maximum Likelihood Estimation (MLE) and Maximum A Posteriori (MAP) estimation. T
 
 #### 3.2.1) Bias-Variance Trade-off
 
+<div align="center">
+<img src="https://github.com/razielar/DataScience_CheetSheet/blob/main/img/diagram_bias-variance.png" alt="logo"></img>
+</div>
 
 
 
