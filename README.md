@@ -1,7 +1,8 @@
-# Data-science Cheet-sheet
+# Data Science Cheetsheet
 
 1. [Probability](#prob)
 2. [Statistics](#stats)
+3. [Machine Learning](#ml)
 
 ## 1) <a id='prob'></a> Probability
 
@@ -75,4 +76,28 @@ print(list(comb))
 ### 2.4) MLE & MAP
 
 Maximum Likelihood Estimation (MLE) and Maximum A Posteriori (MAP) estimation. The difference among them is the inclusion of the prior in MAP. Moreover, MLE can be seen as a special case of MAP with a uniform prior. 
+
+
+## 3) <a id='ml'></a> Machine Learning
+
+### 3.1) Linear Algebra
+
+#### 3.1.1) Eigenvalues and Eigenvectors
+
+### 3.2) Model Evaluation and Selection
+
+### 3.3) Model Training 
+
+#### 3.3.1) Hyperparameter Tuning
+
+### 3.4) Linear Regression
+
+Linear regression assumptions 
+
+| Num   | Assumption   |   Description    |
+|----------|----------|:-------------:|
+| 1  | Linearity        | The relationship between the features and the target variable is linear |
+| 2  | Homoscedasticity | The variance of the residuals is constant                               |
+| 3  | Independence     | All observations are independent of each other                          |
+| 4  | Normality        | The distribution of the target variable (*Y*) is assumed to be normal   |
 
